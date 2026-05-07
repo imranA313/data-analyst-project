@@ -1,0 +1,31 @@
+state,population_2024,area_km2,literacy_rate,region,type
+Uttar Pradesh,230000000,240928,67.7,North,State
+Maharashtra,130000000,307713,82.9,West,State
+Bihar,124000000,94163,61.8,East,State
+West Bengal,100000000,88752,76.3,East,State
+Madhya Pradesh,90000000,308252,69.3,Central,State
+Rajasthan,85000000,342239,66.1,North,State
+Tamil Nadu,82000000,130058,80.1,South,State
+Karnataka,70000000,191791,75.6,South,State
+Gujarat,70000000,196024,78.0,West,State
+Andhra Pradesh,54000000,162975,67.4,South,State
+Odisha,47000000,155707,72.9,East,State
+Telangana,40000000,112077,66.5,South,State
+Kerala,36000000,38852,94.0,South,State
+Jharkhand,40000000,79716,66.4,East,State
+Assam,36000000,78438,72.2,East,State
+Punjab,31000000,50362,75.8,North,State
+Chhattisgarh,32000000,135192,70.3,Central,State
+Haryana,30000000,44212,75.6,North,State
+Uttarakhand,12000000,53483,78.8,North,State
+Himachal Pradesh,8000000,55673,82.8,North,State
+Tripura,4500000,10486,87.2,East,State
+Meghalaya,3800000,22429,74.4,Northeast,State
+Manipur,3400000,22327,76.9,Northeast,State
+Nagaland,2200000,16579,79.6,Northeast,State
+Goa,1700000,3702,87.4,West,State
+Arunachal Pradesh,1700000,83743,65.4,Northeast,State
+Mizoram,1300000,21081,91.3,Northeast,State
+Sikkim,700000,7096,81.4,Northeast,State
+Delhi,21000000,1484,86.2,North,UT
+Jammu & Kashmir,14000000,42241,67.2,North,UT
