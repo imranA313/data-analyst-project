@@ -1,0 +1,7 @@
+data/processed/
+data/raw/deliveries.csv
+reports/figures/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
