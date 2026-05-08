@@ -162,5 +162,5 @@ python notebooks/01\_analysis.py
 
 
 
-\*Project by \[Tumhara Naam] | Data Analyst Portfolio\*
+\*Project by \Imran | Data Analyst Portfolio\*
 
